@@ -1,0 +1,13 @@
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\bin\Debug\netcoreapp3.1\Revision and Playground.exe
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\bin\Debug\netcoreapp3.1\Revision and Playground.deps.json
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\bin\Debug\netcoreapp3.1\Revision and Playground.runtimeconfig.json
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\bin\Debug\netcoreapp3.1\Revision and Playground.runtimeconfig.dev.json
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\bin\Debug\netcoreapp3.1\Revision and Playground.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\bin\Debug\netcoreapp3.1\Revision and Playground.pdb
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\obj\Debug\netcoreapp3.1\Revision and Playground.csprojAssemblyReference.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\obj\Debug\netcoreapp3.1\Revision and Playground.AssemblyInfoInputs.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\obj\Debug\netcoreapp3.1\Revision and Playground.AssemblyInfo.cs
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\obj\Debug\netcoreapp3.1\Revision and Playground.csproj.CoreCompileInputs.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\obj\Debug\netcoreapp3.1\Revision and Playground.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\obj\Debug\netcoreapp3.1\Revision and Playground.pdb
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\C-Fundamentals\Revision and Playground\obj\Debug\netcoreapp3.1\Revision and Playground.genruntimeconfig.cache
